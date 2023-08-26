@@ -1,7 +1,7 @@
 ---------------------------------------------
 What:
 ---------------------------------------------
-This project is a image and meta-data scraper for the listal.com webste.
+This project is a image and meta-data scraper for the listal.com website.
 
 ---------------------------------------------
 Why is this useful:

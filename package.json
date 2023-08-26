@@ -1,0 +1,19 @@
+{
+  "name": "listal-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scrape.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^20.8.2",
+    "rate-limiter-flexible": "^2.4.1"
+  }
+}
